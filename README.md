@@ -4,6 +4,6 @@
 하지만 시험에서의 속도,정확도 향상을 위해 코드를 줄여보았습니다
 
 iot_short_code 0615 = (🤢69_line) -> (😉43_line)
+iot_short_code2_0615 = (🤬43_line) -> (😎23_line)
 
-
-iot_short_code2_0615 = 
+<img src="https://img.shields.io/badge/c++-%23F05032.svg?&style=for-the-badge&logo=c++&logoColor=white" />
